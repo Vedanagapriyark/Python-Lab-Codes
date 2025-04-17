@@ -40,3 +40,19 @@ if __name__ == "__main__":
         print(f"Area of Circle: {circ.area():.2f}")
     else:
         print("Invalid choice!")
+
+OUTPUT:
+Choose a shape:
+1. Rectangle
+2. Circle
+Enter choice (1/2): 1
+Enter the width of the rectangle: 2
+Enter the height of the rectangle: 3
+Area of Rectangle: 6.0
+Choose a shape:
+1. Rectangle
+2. Circle
+Enter choice (1/2): 2
+Enter the radius of the circle: 3
+Area of Circle: 28.27
+
