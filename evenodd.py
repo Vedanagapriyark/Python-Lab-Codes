@@ -12,3 +12,8 @@ evens, odds = separate_even_odd(numbers)
 # Output
 print("Even Numbers:", evens)
 print("Odd Numbers:", odds)
+
+OUTPUT:
+Enter numbers separated by space: 8 9 7 6 0 5
+Even Numbers: [8, 6, 0]
+Odd Numbers: [9, 7, 5]
