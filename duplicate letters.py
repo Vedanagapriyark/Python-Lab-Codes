@@ -15,3 +15,7 @@ if check_duplicate_letters(sentence):
     print("The sentence contains duplicate letters.")
 else:
     print("The sentence does not contain duplicate letters.")
+
+OUTPUT:
+Enter a sentence: helloe everyone
+The sentence contains duplicate letters.
