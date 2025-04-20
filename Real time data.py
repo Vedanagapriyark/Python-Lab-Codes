@@ -12,3 +12,8 @@ def get_address(place):
 place = input("Enter place: ")
 print(f"\nPlace: {place}")
 print("Country Address:", get_address(place))
+
+OUTPUT:
+Enter place: Guelph
+Place: Guelph
+Country Address: Guelph, Southwestern Ontario, Ontario, Canada
